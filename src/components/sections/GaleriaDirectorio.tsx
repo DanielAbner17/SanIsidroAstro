@@ -6,15 +6,12 @@ import ToggleButton from '@components/common/ToggleButton';
 import Mapa from '@images/mapa.jpg';
 
 const CATEGORY_COLORS = {
-  Calzado: 'bg-red-500',
-  Comidas: 'bg-blue-500',
-  'Electrónicos y telefonia': 'bg-[#fcc52a]',
-  Entretenimiento: 'bg-[#8ea8db]',
-  'Ropa y accesorios': 'bg-[#fe679a]',
-  'Servicios, bancos y cajeros': 'bg-[#0eaf90]',
-  'Tiendas departamentales': 'bg-[#4a08a0]',
-  'Tiendas especializadas': 'bg-[#8397b0]',
-  'Ópticas, salud y belleza': 'bg-[#6aff00]',
+  'Restaurantes y Alimentos': 'bg-[#fcc52a]',
+  'Salud y Belleza': 'bg-[#8ea8db]',
+  Mascotas: 'bg-[#fe679a]',
+  'Bancos y Servicios Financieros': 'bg-[#0eaf90]',
+  'Servicios y Tienda departamental': 'bg-[#4a08a0]',
+  Autoservicio: 'bg-[#6aff00]',
   Otros: 'bg-gray-500',
 };
 
