@@ -17,14 +17,14 @@ export interface Store {
 export const stores: Store[] = [
   {
     title: 'WINGS ARMY',
-    imageName: 'logo-wingsarmy.png',
+    imageName: 'logo-wingsarmy.JPG',
     alt: 'Logo WINGS ARMY',
     horario: `<strong>DOM-JUE:</strong> 13:00 - 00:00 <br/><strong>VIE-SAB:</strong> 13:00 - 01:00`,
     categoria: 'Restaurantes y Alimentos',
   },
   {
     title: 'MENG HONG',
-    imageName: 'logo-menghong.png',
+    imageName: '',
     alt: 'Logo MENG HONG',
     horario: `<strong>L-D:</strong> 11:00 - 20:00`,
     categoria: 'Restaurantes y Alimentos',
@@ -38,7 +38,7 @@ export const stores: Store[] = [
   },
   {
     title: 'BUDDY PET',
-    imageName: 'logo-buddypet.png',
+    imageName: 'logo-buddypet.jpg',
     alt: 'Logo BUDDY PET',
     horario: `<strong>L-S:</strong> 09:00 - 20:00 <br/><strong>DOM:</strong> 10:00 - 17:00`,
     categoria: 'Mascotas',
@@ -52,14 +52,14 @@ export const stores: Store[] = [
   },
   {
     title: 'LA MICHOACANA',
-    imageName: 'logo-lamichoacana.png',
+    imageName: 'logo-michoacana.png',
     alt: 'Logo LA MICHOACANA',
     horario: `NA`,
     categoria: 'Restaurantes y Alimentos',
   },
   {
     title: 'GLAM HOUSE',
-    imageName: 'logo-glamhouse.png',
+    imageName: '',
     alt: 'Logo GLAM HOUSE',
     horario: `<strong>L-V:</strong> 10:00 - 19:00 <br/><strong>S:</strong> 10:00 - 16:00 <br/><strong>DOM:</strong> Cerrado`,
     categoria: 'Salud y Belleza',
@@ -136,7 +136,7 @@ export const stores: Store[] = [
   },
   {
     title: 'ENVIO SHOP',
-    imageName: 'logo-envioshop.png',
+    imageName: 'logo-envioshop.webp',
     alt: 'Logo ENVIO SHOP',
     horario: `<strong>L-V:</strong> 09:00 - 19:00 <br/><strong>S:</strong> 10:00 - 14:00 <br/><strong>DOM:</strong> Cerrado`,
     categoria: 'Servicios y Tienda departamental',
