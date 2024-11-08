@@ -17,7 +17,7 @@ export interface Store {
 export const stores: Store[] = [
   {
     title: 'WINGS ARMY',
-    imageName: 'logo-wingsarmy.JPG',
+    imageName: 'logo-wingsarmy.jpg',
     alt: 'Logo WINGS ARMY',
     horario: `<strong>DOM-JUE:</strong> 13:00 - 00:00 <br/><strong>VIE-SAB:</strong> 13:00 - 01:00`,
     categoria: 'Restaurantes y Alimentos',
