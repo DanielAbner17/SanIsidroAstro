@@ -9,7 +9,6 @@ export interface Store {
     | 'Mascotas'
     | 'Bancos y Servicios Financieros'
     | 'Servicios y Tienda departamental'
-    | 'Servicios, bancos y cajeros'
     | 'Autoservicio'
     | 'Otros';
 }
